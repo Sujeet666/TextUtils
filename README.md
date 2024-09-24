@@ -3,4 +3,4 @@
 
 ## Preview:
 
-[Text Manuplater](t https://sujeet666.github.io/TextUtils/)
+[Text Manuplater](https://sujeet666.github.io/TextUtils/)
