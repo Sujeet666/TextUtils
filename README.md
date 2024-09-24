@@ -3,4 +3,4 @@
 
 ## Preview:
 
-[Text Manuplater](https://sujeet666.github.io/TextUtils/)
+To preview thiis React App: [Text Manipulator](https://sujeet666.github.io/TextUtils/)
